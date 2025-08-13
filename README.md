@@ -26,19 +26,15 @@ Sprout Video is built with security as a top priority, making downloads exceptio
 
 ## Features
 
-- 
 
 
-## Screenshots
+<!-- ## Screenshots -->
 
-- 
 
-## Videos
+<!-- ## Videos -->
 
-- 
 
 
 ## Permissions Justifications
 
--
 
