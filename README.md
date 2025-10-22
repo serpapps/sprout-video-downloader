@@ -18,7 +18,7 @@ A browser extension that enables you to download videos from the Sprout Video pl
 - 💌 [Newsletter](https://serp.ly/@serp/email)
 - 🛒 [Shop](https://serp.ly/@serp/store)
 - 🎓 [Courses](https://serp.ly/@serp/courses)
-
+- [How to download sprout videos](https://gist.github.com/devinschumacher/98b9fdfa6c3a2dc7e6bae7e29aaaf0af)
 
 | Video Type | Platform | Download Method | Status | Notes |
 |------------|----------|-----------------|--------|-------|
@@ -54,7 +54,6 @@ A successful download requires a multi-step process that this extension automate
 ## Features
 
 
-
 <!-- ## Screenshots -->
 
 
@@ -63,8 +62,6 @@ A successful download requires a multi-step process that this extension automate
 
 
 ## Permissions Justifications
-
-
 
 
 <details>
