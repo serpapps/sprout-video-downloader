@@ -19,6 +19,31 @@ A browser extension that enables you to download videos from the Sprout Video pl
 - 🛒 [Shop](https://serp.ly/@serp/store)
 - 🎓 [Courses](https://serp.ly/@serp/courses)
 
+
+| Video Type | Platform | Download Method | Status | Notes |
+|------------|----------|-----------------|--------|-------|
+| **Direct MP4** | SproutVideo embeds | Direct download | ✅ Works | SD/HD quality options |
+| **Direct MP4 + Subtitles** | SproutVideo embeds | Direct download | ✅ Works | Embedded subtitles included |
+| **HLS Encrypted** | SproutVideo embeds | FFmpeg processing | ✅ Works | Requires AES-128 decryption |
+| **Third-party Embeds** | External websites | Auto-detection | ✅ Works | Any site with SproutVideo iframes |
+| **Vids.io Videos** | Custom domains | SproutVideo backend | ✅ Works | May require authentication |
+| **Player API Videos** | JavaScript embeds | API integration | ✅ Works | Official SproutVideo player API |
+| **Blog/Website Videos** | SproutVideo.com | Direct extraction | ✅ Works | Native platform content |
+| **Password Protected** | Any platform | N/A | ❌ Not supported | Detection only |
+| **Disabled Accounts** | Any platform | N/A | ❌ Error handling | Account status check |
+
+## Supported Formats
+- **MP4** (Direct download - fastest)
+- **HLS/M3U8** (Requires processing - slower but handles encryption)
+- **Quality options**: 4K → 1440p → 1080p → 720p → SD (when available)
+
+## Requirements
+- Chrome/Chromium browser only
+- Valid license key required
+- Sufficient RAM for HLS processing
+- One video at a time (no batch downloads)
+
+
 ## Downloading Sprout Videos
 
 Sprout Video is built with security as a top priority, making downloads exceptionally complex. They utilize modern streaming protocols like HLS (HTTP Live Streaming), which breaks a single video into hundreds of small, individually encrypted `.ts` (transport stream) segments. You cannot simply download one video file. 
