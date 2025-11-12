@@ -46,9 +46,7 @@ A browser extension that enables you to download videos from the Sprout Video pl
 
 ## Downloading Sprout Videos
 
-Sprout Video is built with security as a top priority, making downloads exceptionally complex. They utilize modern streaming protocols like HLS (HTTP Live Streaming), which breaks a single video into hundreds of small, individually encrypted `.ts` (transport stream) segments. You cannot simply download one video file. 
-
-A successful download requires a multi-step process that this extension automates: first, it fetches and parses the `.m3u8` manifest file to get the list of all video segments. Then, it must download each and every encrypted segment, and finally, decrypt and stitch them together in the correct order to reassemble the original, complete video into a single MP4 file. This overcomes significant technical hurdles designed to prevent downloads.
+Sprout Video serves many videos using a streaming protocol like HLS (HTTP Live Streaming), which breaks a single video into hundreds of small transport stream segments. You cannot simply download one video file. A successful download requires a multi-step process that is to cumbersome to have to do manually, so we built an easy-to-use extension to help the average non-techy have a way to backup and save their media
 
 
 ## Features
