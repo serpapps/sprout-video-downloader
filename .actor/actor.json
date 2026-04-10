@@ -1,0 +1,10 @@
+{
+  "actorSpecification": 1,
+  "buildTag": "latest",
+  "description": "Sprout Video Downloader captures videos hosted on sproutvideo.com as well as embedded players inside private portals, courses, and documentation. It detects the player, lists available qualities, and converts hosted streams into MP4 files you can keep offline.",
+  "input": "./INPUT_SCHEMA.json",
+  "name": "sprout-video-downloader",
+  "readme": "../README.md",
+  "title": "Sprout Video Downloader",
+  "version": "0.0"
+}
