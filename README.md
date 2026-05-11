@@ -1,11 +1,5 @@
 # SproutVideo Downloader (Browser Extension)
 
-## Watch the video
-
-<a href="https://www.youtube.com/watch?v=f7cQfQC-vBk" target="_blank">
-<img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/how-to-download-sprout-videos-for-free-chrome-extension-method.jpg" width="700px">
-</a>
-
 > Download supported SproutVideo-hosted videos as MP4 files from embedded players and direct pages.
 
 SproutVideo Downloader is a browser extension built for users who need offline access to business videos, training content, and embedded media served through SproutVideo. It detects supported direct-file and streaming playback flows, surfaces available quality options when present, and exports the final result as MP4 for later playback.
