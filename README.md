@@ -10,12 +10,6 @@ SproutVideo Downloader is a browser extension built for users who need offline a
 - Keep a browser-first workflow for business and training content
 - Avoid manual stream extraction from embedded players
 
-## Watch The Video
-
-<a href="https://www.youtube.com/watch?v=f7cQfQC-vBk" target="_blank">
-<img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/how-to-download-sprout-videos-for-free-chrome-extension-method.jpg" width="700px">
-</a>
-
 ## Links
 
 - :rocket: Get it here: [SproutVideo Downloader](https://serp.ly/sprout-video-downloader)
@@ -26,7 +20,9 @@ SproutVideo Downloader is a browser extension built for users who need offline a
 
 ## Preview
 
-![SproutVideo Downloader workflow preview](https://raw.githubusercontent.com/serpapps/sprout-video-downloader/refs/heads/main/assets/workflow-preview.webp)
+<a href="https://www.youtube.com/watch?v=f7cQfQC-vBk" target="_blank">
+<img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/how-to-download-sprout-videos-for-free-chrome-extension-method.jpg" width="700px">
+</a>
 
 ## Table of Contents
 
