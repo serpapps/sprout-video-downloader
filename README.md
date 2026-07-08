@@ -1,4 +1,4 @@
-# SproutVideo Downloader (Browser Extension)
+# SproutVideo Video Downloader (Browser Extension)
 
 > Download supported SproutVideo-hosted videos as MP4 files from embedded players and direct pages.
 
@@ -12,7 +12,7 @@ SproutVideo Downloader is a browser extension built for users who need offline a
 
 ## Links
 
-- :rocket: Get it here: [SproutVideo Downloader](https://serp.ly/sprout-video-downloader)
+- :rocket: Get it here: [SproutVideo Downloader](https://serp.ly/sprout-video-downloader?via=github)
 - :new: Latest release: [GitHub Releases](https://github.com/serpapps/sprout-video-downloader/releases/latest)
 - :question: Help center: [SERP Help](https://help.serp.co/en/)
 - :beetle: Report bugs: [GitHub Issues](https://github.com/serpapps/sprout-video-downloader/issues)
@@ -130,7 +130,7 @@ Check whether your internet connection dropped during the export. Retry the down
 - No credit card required for the trial
 - Unlimited downloads are available with a paid license
 
-Start here: [https://serp.ly/sprout-video-downloader](https://serp.ly/sprout-video-downloader)
+Start here: [https://serp.ly/sprout-video-downloader?via=github](https://serp.ly/sprout-video-downloader?via=github)
 
 ## Installation Instructions
 
