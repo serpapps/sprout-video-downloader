@@ -1,0 +1,1113 @@
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 7 first 16 bytes: 93 77 d8 ee 97 d1 2b 80 fc b6 04 90 01 6d 67 55
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_OBJECT: Created File segment_000007.ts - size: 1216368 bytes
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 8 size: 1250016 bytes, type: object
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 8 first 16 bytes: a7 6c 22 4f fd 05 26 1e 28 c7 59 60 4f 04 96 34
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_OBJECT: Created File segment_000008.ts - size: 1250016 bytes
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 9 size: 1192304 bytes, type: object
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 9 first 16 bytes: 82 80 9f 9c ef 75 7d fc c9 0e c7 b2 89 b0 f9 d6
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_OBJECT: Created File segment_000009.ts - size: 1192304 bytes
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 10 size: 1166736 bytes, type: object
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 10 first 16 bytes: 4d 6d af 12 62 5c 94 8a 41 f9 76 8f c2 8b cc d5
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_OBJECT: Created File segment_000010.ts - size: 1166736 bytes
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 11 size: 1138544 bytes, type: object
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 11 first 16 bytes: 6b 0f 9a a6 34 d4 6a d4 47 e8 fe 51 41 99 97 6f
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_OBJECT: Created File segment_000011.ts - size: 1138544 bytes
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 12 size: 1172752 bytes, type: object
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 12 first 16 bytes: c0 e7 62 d5 21 6c 4b 41 7e 4c 87 fd d3 8c 16 0a
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_OBJECT: Created File segment_000012.ts - size: 1172752 bytes
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 13 size: 1177264 bytes, type: object
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 13 first 16 bytes: 35 5b 25 b9 76 fd 15 b1 8a 7f 66 ea 01 07 44 76
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_OBJECT: Created File segment_000013.ts - size: 1177264 bytes
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 14 size: 1256976 bytes, type: object
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 14 first 16 bytes: 43 89 69 ad 33 03 e1 1b ac 42 04 b2 a9 ba b6 78
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_OBJECT: Created File segment_000014.ts - size: 1256976 bytes
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 15 size: 1167296 bytes, type: object
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 15 first 16 bytes: 82 80 8d 2f 25 e0 a1 72 8c ee ae 1a 51 d1 4f e3
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_OBJECT: Created File segment_000015.ts - size: 1167296 bytes
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 16 size: 1262240 bytes, type: object
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 16 first 16 bytes: 7b a2 6b 72 ac d0 d3 ae f8 a6 d0 5b b3 34 e6 f4
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_OBJECT: Created File segment_000016.ts - size: 1262240 bytes
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 17 size: 1213552 bytes, type: object
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 17 first 16 bytes: ac 6d f4 e6 2a 41 a3 7a 8d 27 18 0e b8 11 02 de
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_OBJECT: Created File segment_000017.ts - size: 1213552 bytes
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 18 size: 1202272 bytes, type: object
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 18 first 16 bytes: cc 90 8a 54 c7 58 9d d4 7f 30 bf a9 2a 97 90 4c
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_OBJECT: Created File segment_000018.ts - size: 1202272 bytes
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 19 size: 1192496 bytes, type: object
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 19 first 16 bytes: 16 0f b9 eb 0e 8a f8 7c ad 91 24 f0 ff 0a c8 76
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_OBJECT: Created File segment_000019.ts - size: 1192496 bytes
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 20 size: 1134784 bytes, type: object
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 20 first 16 bytes: ac 11 4e 61 70 6c 2d de b3 ac 54 4a 78 7e 97 0a
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_OBJECT: Created File segment_000020.ts - size: 1134784 bytes
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 21 size: 1134960 bytes, type: object
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 21 first 16 bytes: 46 17 d6 5a c9 b9 5d 35 c5 12 58 6c 95 15 b0 8f
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_OBJECT: Created File segment_000021.ts - size: 1134960 bytes
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 22 size: 1193616 bytes, type: object
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 22 first 16 bytes: 6a f4 fa 6d cc 1d f9 46 a7 af 48 32 e0 8c 55 da
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_OBJECT: Created File segment_000022.ts - size: 1193616 bytes
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 23 size: 1176704 bytes, type: object
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 23 first 16 bytes: 93 77 d8 ee 97 d1 2b 80 fc b6 04 90 01 6d 67 55
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_OBJECT: Created File segment_000023.ts - size: 1176704 bytes
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 24 size: 1152080 bytes, type: object
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 24 first 16 bytes: a7 6c 22 4f fd 05 26 1e 28 c7 59 60 4f 04 96 34
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_OBJECT: Created File segment_000024.ts - size: 1152080 bytes
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 25 size: 1147936 bytes, type: object
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 25 first 16 bytes: 82 80 9f 9c ef 75 7d fc c9 0e c7 b2 89 b0 f9 d6
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_OBJECT: Created File segment_000025.ts - size: 1147936 bytes
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 26 size: 1244576 bytes, type: object
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 26 first 16 bytes: 4d 6d af 12 62 5c 94 8a 41 f9 76 8f c2 8b cc d5
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_OBJECT: Created File segment_000026.ts - size: 1244576 bytes
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 27 size: 1212992 bytes, type: object
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 27 first 16 bytes: 6b 0f 9a a6 34 d4 6a d4 47 e8 fe 51 41 99 97 6f
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_OBJECT: Created File segment_000027.ts - size: 1212992 bytes
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 28 size: 1190800 bytes, type: object
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 28 first 16 bytes: c0 e7 62 d5 21 6c 4b 41 7e 4c 87 fd d3 8c 16 0a
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_OBJECT: Created File segment_000028.ts - size: 1190800 bytes
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 29 size: 1196448 bytes, type: object
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 29 first 16 bytes: 35 5b 25 b9 76 fd 15 b1 8a 7f 66 ea 01 07 44 76
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_OBJECT: Created File segment_000029.ts - size: 1196448 bytes
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 30 size: 1162608 bytes, type: object
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 30 first 16 bytes: 43 89 69 ad 33 03 e1 1b ac 42 04 b2 a9 ba b6 78
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_OBJECT: Created File segment_000030.ts - size: 1162608 bytes
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 31 size: 1205088 bytes, type: object
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 31 first 16 bytes: 82 80 8d 2f 25 e0 a1 72 8c ee ae 1a 51 d1 4f e3
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_OBJECT: Created File segment_000031.ts - size: 1205088 bytes
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 32 size: 1228032 bytes, type: object
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 32 first 16 bytes: 7b a2 6b 72 ac d0 d3 ae f8 a6 d0 5b b3 34 e6 f4
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_OBJECT: Created File segment_000032.ts - size: 1228032 bytes
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 33 size: 1173136 bytes, type: object
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 33 first 16 bytes: ac 6d f4 e6 2a 41 a3 7a 8d 27 18 0e b8 11 02 de
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_OBJECT: Created File segment_000033.ts - size: 1173136 bytes
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 34 size: 1202080 bytes, type: object
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 34 first 16 bytes: cc 90 8a 54 c7 58 9d d4 7f 30 bf a9 2a 97 90 4c
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_OBJECT: Created File segment_000034.ts - size: 1202080 bytes
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 35 size: 1245888 bytes, type: object
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 35 first 16 bytes: 16 0f b9 eb 0e 8a f8 7c ad 91 24 f0 ff 0a c8 76
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_OBJECT: Created File segment_000035.ts - size: 1245888 bytes
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 36 size: 1161856 bytes, type: object
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 36 first 16 bytes: ac 11 4e 61 70 6c 2d de b3 ac 54 4a 78 7e 97 0a
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_OBJECT: Created File segment_000036.ts - size: 1161856 bytes
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 37 size: 1152448 bytes, type: object
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 37 first 16 bytes: 46 17 d6 5a c9 b9 5d 35 c5 12 58 6c 95 15 b0 8f
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_OBJECT: Created File segment_000037.ts - size: 1152448 bytes
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 38 size: 1195504 bytes, type: object
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 38 first 16 bytes: 6a f4 fa 6d cc 1d f9 46 a7 af 48 32 e0 8c 55 da
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_OBJECT: Created File segment_000038.ts - size: 1195504 bytes
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 39 size: 1249648 bytes, type: object
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 39 first 16 bytes: 93 77 d8 ee 97 d1 2b 80 fc b6 04 90 01 6d 67 55
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_OBJECT: Created File segment_000039.ts - size: 1249648 bytes
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 40 size: 1196448 bytes, type: object
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 40 first 16 bytes: a7 6c 22 4f fd 05 26 1e 28 c7 59 60 4f 04 96 34
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_OBJECT: Created File segment_000040.ts - size: 1196448 bytes
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 41 size: 1171808 bytes, type: object
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 41 first 16 bytes: 82 80 9f 9c ef 75 7d fc c9 0e c7 b2 89 b0 f9 d6
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_OBJECT: Created File segment_000041.ts - size: 1171808 bytes
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 42 size: 1147568 bytes, type: object
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 42 first 16 bytes: 4d 6d af 12 62 5c 94 8a 41 f9 76 8f c2 8b cc d5
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_OBJECT: Created File segment_000042.ts - size: 1147568 bytes
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 43 size: 1147568 bytes, type: object
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 43 first 16 bytes: 6b 0f 9a a6 34 d4 6a d4 47 e8 fe 51 41 99 97 6f
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_OBJECT: Created File segment_000043.ts - size: 1147568 bytes
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 44 size: 1228208 bytes, type: object
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 44 first 16 bytes: c0 e7 62 d5 21 6c 4b 41 7e 4c 87 fd d3 8c 16 0a
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_OBJECT: Created File segment_000044.ts - size: 1228208 bytes
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 45 size: 1209232 bytes, type: object
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 45 first 16 bytes: 35 5b 25 b9 76 fd 15 b1 8a 7f 66 ea 01 07 44 76
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_OBJECT: Created File segment_000045.ts - size: 1209232 bytes
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 46 size: 1185728 bytes, type: object
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 46 first 16 bytes: 43 89 69 ad 33 03 e1 1b ac 42 04 b2 a9 ba b6 78
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_OBJECT: Created File segment_000046.ts - size: 1185728 bytes
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 47 size: 1211488 bytes, type: object
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 47 first 16 bytes: 82 80 8d 2f 25 e0 a1 72 8c ee ae 1a 51 d1 4f e3
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_OBJECT: Created File segment_000047.ts - size: 1211488 bytes
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 48 size: 1190048 bytes, type: object
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 48 first 16 bytes: 7b a2 6b 72 ac d0 d3 ae f8 a6 d0 5b b3 34 e6 f4
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_OBJECT: Created File segment_000048.ts - size: 1190048 bytes
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 49 size: 1262048 bytes, type: object
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 49 first 16 bytes: ac 6d f4 e6 2a 41 a3 7a 8d 27 18 0e b8 11 02 de
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_OBJECT: Created File segment_000049.ts - size: 1262048 bytes
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 50 size: 1154896 bytes, type: object
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 50 first 16 bytes: cc 90 8a 54 c7 58 9d d4 7f 30 bf a9 2a 97 90 4c
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_OBJECT: Created File segment_000050.ts - size: 1154896 bytes
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 51 size: 1229536 bytes, type: object
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 51 first 16 bytes: 16 0f b9 eb 0e 8a f8 7c ad 91 24 f0 ff 0a c8 76
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_OBJECT: Created File segment_000051.ts - size: 1229536 bytes
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 52 size: 1205280 bytes, type: object
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 52 first 16 bytes: ac 11 4e 61 70 6c 2d de b3 ac 54 4a 78 7e 97 0a
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_OBJECT: Created File segment_000052.ts - size: 1205280 bytes
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 53 size: 206064 bytes, type: object
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_CREATION: Segment 53 first 16 bytes: 46 17 d6 5a c9 b9 5d 35 c5 12 58 6c 95 15 b0 8f
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 FILE_OBJECT: Created File segment_000053.ts - size: 206064 bytes
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 Created 54 File objects
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: Memory: 61MB (1%) - After creating File objects
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🗂️ FILESYSTEM: Creating directory /segments
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🗂️ FILESYSTEM: Mounting WORKERFS with 54 files to /segments
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: ✅ FILESYSTEM: WORKERFS mounted successfully
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🧹 Cleared segment data from memory after successful mount
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: Memory: 61MB (1%) - After mounting
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 DECISION: keyData=present, encryptionInfo=present
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔐 Creating HLS playlist with encryption key
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 Copying 54 segments to root directory for FFmpeg access
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 MOUNT_CHECK: Found 56 files in /segments:
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 MOUNT_CHECK: - . (undefined bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 MOUNT_CHECK: - .. (undefined bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 MOUNT_CHECK: - segment_000000.ts (undefined bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 MOUNT_CHECK: - segment_000001.ts (undefined bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 MOUNT_CHECK: - segment_000002.ts (undefined bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 MOUNT_CHECK: - segment_000003.ts (undefined bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 MOUNT_CHECK: - segment_000004.ts (undefined bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 MOUNT_CHECK: - segment_000005.ts (undefined bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 MOUNT_CHECK: - segment_000006.ts (undefined bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 MOUNT_CHECK: - segment_000007.ts (undefined bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 MOUNT_CHECK: - segment_000008.ts (undefined bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 MOUNT_CHECK: - segment_000009.ts (undefined bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 MOUNT_CHECK: - segment_000010.ts (undefined bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 MOUNT_CHECK: - segment_000011.ts (undefined bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 MOUNT_CHECK: - segment_000012.ts (undefined bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 MOUNT_CHECK: - segment_000013.ts (undefined bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 MOUNT_CHECK: - segment_000014.ts (undefined bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 MOUNT_CHECK: - segment_000015.ts (undefined bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 MOUNT_CHECK: - segment_000016.ts (undefined bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 MOUNT_CHECK: - segment_000017.ts (undefined bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 MOUNT_CHECK: - segment_000018.ts (undefined bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 MOUNT_CHECK: - segment_000019.ts (undefined bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 MOUNT_CHECK: - segment_000020.ts (undefined bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 MOUNT_CHECK: - segment_000021.ts (undefined bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 MOUNT_CHECK: - segment_000022.ts (undefined bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 MOUNT_CHECK: - segment_000023.ts (undefined bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 MOUNT_CHECK: - segment_000024.ts (undefined bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 MOUNT_CHECK: - segment_000025.ts (undefined bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 MOUNT_CHECK: - segment_000026.ts (undefined bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 MOUNT_CHECK: - segment_000027.ts (undefined bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 MOUNT_CHECK: - segment_000028.ts (undefined bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 MOUNT_CHECK: - segment_000029.ts (undefined bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 MOUNT_CHECK: - segment_000030.ts (undefined bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 MOUNT_CHECK: - segment_000031.ts (undefined bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 MOUNT_CHECK: - segment_000032.ts (undefined bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 MOUNT_CHECK: - segment_000033.ts (undefined bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 MOUNT_CHECK: - segment_000034.ts (undefined bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 MOUNT_CHECK: - segment_000035.ts (undefined bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 MOUNT_CHECK: - segment_000036.ts (undefined bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 MOUNT_CHECK: - segment_000037.ts (undefined bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 MOUNT_CHECK: - segment_000038.ts (undefined bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 MOUNT_CHECK: - segment_000039.ts (undefined bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 MOUNT_CHECK: - segment_000040.ts (undefined bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 MOUNT_CHECK: - segment_000041.ts (undefined bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 MOUNT_CHECK: - segment_000042.ts (undefined bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 MOUNT_CHECK: - segment_000043.ts (undefined bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 MOUNT_CHECK: - segment_000044.ts (undefined bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 MOUNT_CHECK: - segment_000045.ts (undefined bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 MOUNT_CHECK: - segment_000046.ts (undefined bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 MOUNT_CHECK: - segment_000047.ts (undefined bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 MOUNT_CHECK: - segment_000048.ts (undefined bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 MOUNT_CHECK: - segment_000049.ts (undefined bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 MOUNT_CHECK: - segment_000050.ts (undefined bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 MOUNT_CHECK: - segment_000051.ts (undefined bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 MOUNT_CHECK: - segment_000052.ts (undefined bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 MOUNT_CHECK: - segment_000053.ts (undefined bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_ATTEMPT: Trying to read /segments/segment_000000.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_READ: Read 648048 bytes from /segments/segment_000000.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_SUCCESS: Copied /segments/segment_000000.ts -> segment_000000.ts (written: undefined bytes, source: 648048 bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_ATTEMPT: Trying to read /segments/segment_000001.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_READ: Read 714784 bytes from /segments/segment_000001.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_SUCCESS: Copied /segments/segment_000001.ts -> segment_000001.ts (written: undefined bytes, source: 714784 bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_ATTEMPT: Trying to read /segments/segment_000002.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_READ: Read 1209792 bytes from /segments/segment_000002.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_SUCCESS: Copied /segments/segment_000002.ts -> segment_000002.ts (written: undefined bytes, source: 1209792 bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_ATTEMPT: Trying to read /segments/segment_000003.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_READ: Read 1274272 bytes from /segments/segment_000003.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_SUCCESS: Copied /segments/segment_000003.ts -> segment_000003.ts (written: undefined bytes, source: 1274272 bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_ATTEMPT: Trying to read /segments/segment_000004.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_READ: Read 1149072 bytes from /segments/segment_000004.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_SUCCESS: Copied /segments/segment_000004.ts -> segment_000004.ts (written: undefined bytes, source: 1149072 bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_ATTEMPT: Trying to read /segments/segment_000005.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_READ: Read 1179904 bytes from /segments/segment_000005.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_SUCCESS: Copied /segments/segment_000005.ts -> segment_000005.ts (written: undefined bytes, source: 1179904 bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_ATTEMPT: Trying to read /segments/segment_000006.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_READ: Read 1183088 bytes from /segments/segment_000006.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_SUCCESS: Copied /segments/segment_000006.ts -> segment_000006.ts (written: undefined bytes, source: 1183088 bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_ATTEMPT: Trying to read /segments/segment_000007.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_READ: Read 1216368 bytes from /segments/segment_000007.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_SUCCESS: Copied /segments/segment_000007.ts -> segment_000007.ts (written: undefined bytes, source: 1216368 bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_ATTEMPT: Trying to read /segments/segment_000008.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_READ: Read 1250016 bytes from /segments/segment_000008.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_SUCCESS: Copied /segments/segment_000008.ts -> segment_000008.ts (written: undefined bytes, source: 1250016 bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_ATTEMPT: Trying to read /segments/segment_000009.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_READ: Read 1192304 bytes from /segments/segment_000009.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_SUCCESS: Copied /segments/segment_000009.ts -> segment_000009.ts (written: undefined bytes, source: 1192304 bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_ATTEMPT: Trying to read /segments/segment_000010.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_READ: Read 1166736 bytes from /segments/segment_000010.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_SUCCESS: Copied /segments/segment_000010.ts -> segment_000010.ts (written: undefined bytes, source: 1166736 bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_ATTEMPT: Trying to read /segments/segment_000011.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_READ: Read 1138544 bytes from /segments/segment_000011.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_SUCCESS: Copied /segments/segment_000011.ts -> segment_000011.ts (written: undefined bytes, source: 1138544 bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_ATTEMPT: Trying to read /segments/segment_000012.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_READ: Read 1172752 bytes from /segments/segment_000012.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_SUCCESS: Copied /segments/segment_000012.ts -> segment_000012.ts (written: undefined bytes, source: 1172752 bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_ATTEMPT: Trying to read /segments/segment_000013.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_READ: Read 1177264 bytes from /segments/segment_000013.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_SUCCESS: Copied /segments/segment_000013.ts -> segment_000013.ts (written: undefined bytes, source: 1177264 bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_ATTEMPT: Trying to read /segments/segment_000014.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_READ: Read 1256976 bytes from /segments/segment_000014.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_SUCCESS: Copied /segments/segment_000014.ts -> segment_000014.ts (written: undefined bytes, source: 1256976 bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_ATTEMPT: Trying to read /segments/segment_000015.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_READ: Read 1167296 bytes from /segments/segment_000015.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_SUCCESS: Copied /segments/segment_000015.ts -> segment_000015.ts (written: undefined bytes, source: 1167296 bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_ATTEMPT: Trying to read /segments/segment_000016.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_READ: Read 1262240 bytes from /segments/segment_000016.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_SUCCESS: Copied /segments/segment_000016.ts -> segment_000016.ts (written: undefined bytes, source: 1262240 bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_ATTEMPT: Trying to read /segments/segment_000017.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_READ: Read 1213552 bytes from /segments/segment_000017.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_SUCCESS: Copied /segments/segment_000017.ts -> segment_000017.ts (written: undefined bytes, source: 1213552 bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_ATTEMPT: Trying to read /segments/segment_000018.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_READ: Read 1202272 bytes from /segments/segment_000018.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_SUCCESS: Copied /segments/segment_000018.ts -> segment_000018.ts (written: undefined bytes, source: 1202272 bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_ATTEMPT: Trying to read /segments/segment_000019.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_READ: Read 1192496 bytes from /segments/segment_000019.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_SUCCESS: Copied /segments/segment_000019.ts -> segment_000019.ts (written: undefined bytes, source: 1192496 bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_ATTEMPT: Trying to read /segments/segment_000020.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_READ: Read 1134784 bytes from /segments/segment_000020.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_SUCCESS: Copied /segments/segment_000020.ts -> segment_000020.ts (written: undefined bytes, source: 1134784 bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_ATTEMPT: Trying to read /segments/segment_000021.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_READ: Read 1134960 bytes from /segments/segment_000021.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_SUCCESS: Copied /segments/segment_000021.ts -> segment_000021.ts (written: undefined bytes, source: 1134960 bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_ATTEMPT: Trying to read /segments/segment_000022.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_READ: Read 1193616 bytes from /segments/segment_000022.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_SUCCESS: Copied /segments/segment_000022.ts -> segment_000022.ts (written: undefined bytes, source: 1193616 bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_ATTEMPT: Trying to read /segments/segment_000023.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_READ: Read 1176704 bytes from /segments/segment_000023.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_SUCCESS: Copied /segments/segment_000023.ts -> segment_000023.ts (written: undefined bytes, source: 1176704 bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_ATTEMPT: Trying to read /segments/segment_000024.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_READ: Read 1152080 bytes from /segments/segment_000024.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_SUCCESS: Copied /segments/segment_000024.ts -> segment_000024.ts (written: undefined bytes, source: 1152080 bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_ATTEMPT: Trying to read /segments/segment_000025.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_READ: Read 1147936 bytes from /segments/segment_000025.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_SUCCESS: Copied /segments/segment_000025.ts -> segment_000025.ts (written: undefined bytes, source: 1147936 bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_ATTEMPT: Trying to read /segments/segment_000026.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_READ: Read 1244576 bytes from /segments/segment_000026.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_SUCCESS: Copied /segments/segment_000026.ts -> segment_000026.ts (written: undefined bytes, source: 1244576 bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_ATTEMPT: Trying to read /segments/segment_000027.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_READ: Read 1212992 bytes from /segments/segment_000027.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_SUCCESS: Copied /segments/segment_000027.ts -> segment_000027.ts (written: undefined bytes, source: 1212992 bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_ATTEMPT: Trying to read /segments/segment_000028.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_READ: Read 1190800 bytes from /segments/segment_000028.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_SUCCESS: Copied /segments/segment_000028.ts -> segment_000028.ts (written: undefined bytes, source: 1190800 bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_ATTEMPT: Trying to read /segments/segment_000029.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_READ: Read 1196448 bytes from /segments/segment_000029.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_SUCCESS: Copied /segments/segment_000029.ts -> segment_000029.ts (written: undefined bytes, source: 1196448 bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_ATTEMPT: Trying to read /segments/segment_000030.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_READ: Read 1162608 bytes from /segments/segment_000030.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_SUCCESS: Copied /segments/segment_000030.ts -> segment_000030.ts (written: undefined bytes, source: 1162608 bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_ATTEMPT: Trying to read /segments/segment_000031.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_READ: Read 1205088 bytes from /segments/segment_000031.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_SUCCESS: Copied /segments/segment_000031.ts -> segment_000031.ts (written: undefined bytes, source: 1205088 bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_ATTEMPT: Trying to read /segments/segment_000032.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_READ: Read 1228032 bytes from /segments/segment_000032.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_SUCCESS: Copied /segments/segment_000032.ts -> segment_000032.ts (written: undefined bytes, source: 1228032 bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_ATTEMPT: Trying to read /segments/segment_000033.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_READ: Read 1173136 bytes from /segments/segment_000033.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_SUCCESS: Copied /segments/segment_000033.ts -> segment_000033.ts (written: undefined bytes, source: 1173136 bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_ATTEMPT: Trying to read /segments/segment_000034.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_READ: Read 1202080 bytes from /segments/segment_000034.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_SUCCESS: Copied /segments/segment_000034.ts -> segment_000034.ts (written: undefined bytes, source: 1202080 bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_ATTEMPT: Trying to read /segments/segment_000035.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_READ: Read 1245888 bytes from /segments/segment_000035.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_SUCCESS: Copied /segments/segment_000035.ts -> segment_000035.ts (written: undefined bytes, source: 1245888 bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_ATTEMPT: Trying to read /segments/segment_000036.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_READ: Read 1161856 bytes from /segments/segment_000036.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_SUCCESS: Copied /segments/segment_000036.ts -> segment_000036.ts (written: undefined bytes, source: 1161856 bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_ATTEMPT: Trying to read /segments/segment_000037.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_READ: Read 1152448 bytes from /segments/segment_000037.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_SUCCESS: Copied /segments/segment_000037.ts -> segment_000037.ts (written: undefined bytes, source: 1152448 bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_ATTEMPT: Trying to read /segments/segment_000038.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_READ: Read 1195504 bytes from /segments/segment_000038.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_SUCCESS: Copied /segments/segment_000038.ts -> segment_000038.ts (written: undefined bytes, source: 1195504 bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_ATTEMPT: Trying to read /segments/segment_000039.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_READ: Read 1249648 bytes from /segments/segment_000039.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_SUCCESS: Copied /segments/segment_000039.ts -> segment_000039.ts (written: undefined bytes, source: 1249648 bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_ATTEMPT: Trying to read /segments/segment_000040.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_READ: Read 1196448 bytes from /segments/segment_000040.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_SUCCESS: Copied /segments/segment_000040.ts -> segment_000040.ts (written: undefined bytes, source: 1196448 bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_ATTEMPT: Trying to read /segments/segment_000041.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_READ: Read 1171808 bytes from /segments/segment_000041.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_SUCCESS: Copied /segments/segment_000041.ts -> segment_000041.ts (written: undefined bytes, source: 1171808 bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_ATTEMPT: Trying to read /segments/segment_000042.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_READ: Read 1147568 bytes from /segments/segment_000042.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_SUCCESS: Copied /segments/segment_000042.ts -> segment_000042.ts (written: undefined bytes, source: 1147568 bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_ATTEMPT: Trying to read /segments/segment_000043.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_READ: Read 1147568 bytes from /segments/segment_000043.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_SUCCESS: Copied /segments/segment_000043.ts -> segment_000043.ts (written: undefined bytes, source: 1147568 bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_ATTEMPT: Trying to read /segments/segment_000044.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_READ: Read 1228208 bytes from /segments/segment_000044.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_SUCCESS: Copied /segments/segment_000044.ts -> segment_000044.ts (written: undefined bytes, source: 1228208 bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_ATTEMPT: Trying to read /segments/segment_000045.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_READ: Read 1209232 bytes from /segments/segment_000045.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_SUCCESS: Copied /segments/segment_000045.ts -> segment_000045.ts (written: undefined bytes, source: 1209232 bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_ATTEMPT: Trying to read /segments/segment_000046.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_READ: Read 1185728 bytes from /segments/segment_000046.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_SUCCESS: Copied /segments/segment_000046.ts -> segment_000046.ts (written: undefined bytes, source: 1185728 bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_ATTEMPT: Trying to read /segments/segment_000047.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_READ: Read 1211488 bytes from /segments/segment_000047.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_SUCCESS: Copied /segments/segment_000047.ts -> segment_000047.ts (written: undefined bytes, source: 1211488 bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_ATTEMPT: Trying to read /segments/segment_000048.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_READ: Read 1190048 bytes from /segments/segment_000048.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_SUCCESS: Copied /segments/segment_000048.ts -> segment_000048.ts (written: undefined bytes, source: 1190048 bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_ATTEMPT: Trying to read /segments/segment_000049.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_READ: Read 1262048 bytes from /segments/segment_000049.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_SUCCESS: Copied /segments/segment_000049.ts -> segment_000049.ts (written: undefined bytes, source: 1262048 bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_ATTEMPT: Trying to read /segments/segment_000050.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_READ: Read 1154896 bytes from /segments/segment_000050.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_SUCCESS: Copied /segments/segment_000050.ts -> segment_000050.ts (written: undefined bytes, source: 1154896 bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_ATTEMPT: Trying to read /segments/segment_000051.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_READ: Read 1229536 bytes from /segments/segment_000051.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_SUCCESS: Copied /segments/segment_000051.ts -> segment_000051.ts (written: undefined bytes, source: 1229536 bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_ATTEMPT: Trying to read /segments/segment_000052.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_READ: Read 1205280 bytes from /segments/segment_000052.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_SUCCESS: Copied /segments/segment_000052.ts -> segment_000052.ts (written: undefined bytes, source: 1205280 bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_ATTEMPT: Trying to read /segments/segment_000053.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_READ: Read 206064 bytes from /segments/segment_000053.ts
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 COPY_SUCCESS: Copied /segments/segment_000053.ts -> segment_000053.ts (written: undefined bytes, source: 206064 bytes)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔐 Created HLS playlist with 54 encrypted segments
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 PLAYLIST CONTENT: #EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-KEY:METHOD=AES-128,URI="decryption.ts",IV=a81dac50d91f6d0a55783f58d35f77f4
+#EXTINF:10.0,
+segment_000000.ts
+#EXTINF:10.0,
+segment_000001.ts
+#EXTINF:10.0,
+segment_000002.ts
+#EXTINF:10.0,
+segment_000003.ts
+#EXTINF:10.0,
+segment_000004.ts
+#EXTINF:10.0,
+segment_000005.ts
+#EXTINF:10.0,
+segment_000006.ts
+#EXTINF:10.0,
+segment_000007.ts
+#EXTINF:10.0,
+segment_000008.ts
+#EXTINF:10.0,
+segment_000009.ts
+#EXTINF:10.0,
+segment_000010.ts
+#EXTINF:10.0,
+segment_000011.ts
+#EXTINF:10.0,
+segment_000012.ts
+#EXTINF:10.0,
+segment_000013.ts
+#EXTINF:10.0,
+segment_000014.ts
+#EXTINF:10.0,
+segment_000015.ts
+#EXTINF:10.0,
+segment_000016.ts
+#EXTINF:10.0,
+segment_000017.ts
+#EXTINF:10.0,
+segment_000018.ts
+#EXTINF:10.0,
+segment_000019.ts
+#EXTINF:10.0,
+segment_000020.ts
+#EXTINF:10.0,
+segment_000021.ts
+#EXTINF:10.0,
+segment_000022.ts
+#EXTINF:10.0,
+segment_000023.ts
+#EXTINF:10.0,
+segment_000024.ts
+#EXTINF:10.0,
+segment_000025.ts
+#EXTINF:10.0,
+segment_000026.ts
+#EXTINF:10.0,
+segment_000027.ts
+#EXTINF:10.0,
+segment_000028.ts
+#EXTINF:10.0,
+segment_000029.ts
+#EXTINF:10.0,
+segment_000030.ts
+#EXTINF:10.0,
+segment_000031.ts
+#EXTINF:10.0,
+segment_000032.ts
+#EXTINF:10.0,
+segment_000033.ts
+#EXTINF:10.0,
+segment_000034.ts
+#EXTINF:10.0,
+segment_000035.ts
+#EXTINF:10.0,
+segment_000036.ts
+#EXTINF:10.0,
+segment_000037.ts
+#EXTINF:10.0,
+segment_000038.ts
+#EXTINF:10.0,
+segment_000039.ts
+#EXTINF:10.0,
+segment_000040.ts
+#EXTINF:10.0,
+segment_000041.ts
+#EXTINF:10.0,
+segment_000042.ts
+#EXTINF:10.0,
+segment_000043.ts
+#EXTINF:10.0,
+segment_000044.ts
+#EXTINF:10.0,
+segment_000045.ts
+#EXTINF:10.0,
+segment_000046.ts
+#EXTINF:10.0,
+segment_000047.ts
+#EXTINF:10.0,
+segment_000048.ts
+#EXTINF:10.0,
+segment_000049.ts
+#EXTINF:10.0,
+segment_000050.ts
+#EXTINF:10.0,
+segment_000051.ts
+#EXTINF:10.0,
+segment_000052.ts
+#EXTINF:10.0,
+segment_000053.ts
+#EXT-X-ENDLIST
+
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 Root directory files: ., .., tmp, home, dev, proc, segments, decryption.ts, segment_000000.ts, segment_000001.ts, segment_000002.ts, segment_000003.ts, segment_000004.ts, segment_000005.ts, segment_000006.ts, segment_000007.ts, segment_000008.ts, segment_000009.ts, segment_000010.ts, segment_000011.ts, segment_000012.ts, segment_000013.ts, segment_000014.ts, segment_000015.ts, segment_000016.ts, segment_000017.ts, segment_000018.ts, segment_000019.ts, segment_000020.ts, segment_000021.ts, segment_000022.ts, segment_000023.ts, segment_000024.ts, segment_000025.ts, segment_000026.ts, segment_000027.ts, segment_000028.ts, segment_000029.ts, segment_000030.ts, segment_000031.ts, segment_000032.ts, segment_000033.ts, segment_000034.ts, segment_000035.ts, segment_000036.ts, segment_000037.ts, segment_000038.ts, segment_000039.ts, segment_000040.ts, segment_000041.ts, segment_000042.ts, segment_000043.ts, segment_000044.ts, segment_000045.ts, segment_000046.ts, segment_000047.ts, segment_000048.ts, segment_000049.ts, segment_000050.ts, segment_000051.ts, segment_000052.ts, segment_000053.ts, playlist.m3u8
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 Key file exists: true, Playlist exists: true
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 Executing HLS FFmpeg: -i playlist.m3u8 -c copy -movflags faststart -y Promo_for_Law_Students_-_CC_-_2018_d49addb71819e4c05c.mp4
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg] ffmpeg version 5.1.4 Copyright (c) 2000-2023 the FFmpeg developers
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg]   built with emcc (Emscripten gcc/clang-like replacement + linker emulating GNU ld) 3.1.40 (5c27e79dd0a9c4e27ef2326841698cdd4f6b5784)
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg]   configuration: --target-os=none --arch=x86_32 --enable-cross-compile --disable-asm --disable-stripping --disable-programs --disable-doc --disable-debug --disable-runtime-cpudetect --disable-autodetect --nm=emnm --ar=emar --ranlib=emranlib --cc=emcc --cxx=em++ --objcc=emcc --dep-cc=emcc --extra-cflags='-I/opt/include -O3 -msimd128' --extra-cxxflags='-I/opt/include -O3 -msimd128' --disable-pthreads --disable-w32threads --disable-os2threads --enable-gpl --enable-libx264 --enable-libx265 --enable-libvpx --enable-libmp3lame --enable-libtheora --enable-libvorbis --enable-libopus --enable-zlib --enable-libwebp --enable-libfreetype --enable-libfribidi --enable-libass --enable-libzimg
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg]   libavutil      57. 28.100 / 57. 28.100
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg]   libavcodec     59. 37.100 / 59. 37.100
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg]   libavformat    59. 27.100 / 59. 27.100
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg]   libavdevice    59.  7.100 / 59.  7.100
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg]   libavfilter     8. 44.100 /  8. 44.100
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg]   libswscale      6.  7.100 /  6.  7.100
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg]   libswresample   4.  7.100 /  4.  7.100
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg]   libpostproc    56.  6.100 / 56.  6.100
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg] [hls @ 0xdeea00] Skip ('#EXT-X-VERSION:3')
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg] [hls @ 0xdeea00] Opening 'decryption.ts' for reading
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg] [hls @ 0xdeea00] Opening 'crypto:segment_000000.ts' for reading
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg] Input #0, hls, from 'playlist.m3u8':
+ 📨 Received message: DEBUG_MESSAGE
+ 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg]   Duration: 00:09:00.00, start: 1.436889, bitrate: 0 kb/s
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg]   Program 0 
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg]     Metadata:
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg]       variant_bitrate : 0
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg]   Stream #0:0: Video: h264 (High) ([27][0][0][0] / 0x001B), yuv420p, 1920x1080, 24 fps, 24 tbr, 90k tbn
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg]     Metadata:
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg]       variant_bitrate : 0
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg]   Stream #0:1: Audio: aac (LC) ([15][0][0][0] / 0x000F), 44100 Hz, stereo, fltp
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg]     Metadata:
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg]       variant_bitrate : 0
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg] Output #0, mp4, to 'Promo_for_Law_Students_-_CC_-_2018_d49addb71819e4c05c.mp4':
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg]   Metadata:
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg]     encoder         : Lavf59.27.100
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg]   Stream #0:0: Video: h264 (High) (avc1 / 0x31637661), yuv420p, 1920x1080, q=2-31, 24 fps, 24 tbr, 90k tbn
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg]     Metadata:
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg]       variant_bitrate : 0
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg]   Stream #0:1: Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg]     Metadata:
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg]       variant_bitrate : 0
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg] Stream mapping:
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg]   Stream #0:0 -> #0:0 (copy)
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg]   Stream #0:1 -> #0:1 (copy)
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg] frame=    1 fps=0.0 q=-1.0 size=       0kB time=00:00:00.00 bitrate=N/A speed=N/A    
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg] [hls @ 0xdeea00] Opening 'crypto:segment_000001.ts' for reading
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg] [hls @ 0xdeea00] Opening 'crypto:segment_000002.ts' for reading
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg] [hls @ 0xdeea00] Opening 'crypto:segment_000003.ts' for reading
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg] [hls @ 0xdeea00] Opening 'crypto:segment_000004.ts' for reading
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg] [hls @ 0xdeea00] Opening 'crypto:segment_000005.ts' for reading
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg] [hls @ 0xdeea00] Opening 'crypto:segment_000006.ts' for reading
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg] [hls @ 0xdeea00] Opening 'crypto:segment_000007.ts' for reading
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg] [hls @ 0xdeea00] Opening 'crypto:segment_000008.ts' for reading
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg] [hls @ 0xdeea00] Opening 'crypto:segment_000009.ts' for reading
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg] [hls @ 0xdeea00] Opening 'crypto:segment_000010.ts' for reading
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg] [hls @ 0xdeea00] Opening 'crypto:segment_000011.ts' for reading
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg] [hls @ 0xdeea00] Opening 'crypto:segment_000012.ts' for reading
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg] [hls @ 0xdeea00] Opening 'crypto:segment_000013.ts' for reading
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg] [hls @ 0xdeea00] Opening 'crypto:segment_000014.ts' for reading
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg] [hls @ 0xdeea00] Opening 'crypto:segment_000015.ts' for reading
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg] [hls @ 0xdeea00] Opening 'crypto:segment_000016.ts' for reading
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg] [hls @ 0xdeea00] Opening 'crypto:segment_000017.ts' for reading
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg] [hls @ 0xdeea00] Opening 'crypto:segment_000018.ts' for reading
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg] [hls @ 0xdeea00] Opening 'crypto:segment_000019.ts' for reading
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg] [hls @ 0xdeea00] Opening 'crypto:segment_000020.ts' for reading
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg] [hls @ 0xdeea00] Opening 'crypto:segment_000021.ts' for reading
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg] [hls @ 0xdeea00] Opening 'crypto:segment_000022.ts' for reading
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg] [hls @ 0xdeea00] Opening 'crypto:segment_000023.ts' for reading
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg] frame= 5713 fps=0.0 q=-1.0 size=   25088kB time=00:03:57.96 bitrate= 863.7kbits/s speed= 476x    
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg] [hls @ 0xdeea00] Opening 'crypto:segment_000024.ts' for reading
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg] [hls @ 0xdeea00] Opening 'crypto:segment_000025.ts' for reading
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg] [hls @ 0xdeea00] Opening 'crypto:segment_000026.ts' for reading
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg] [hls @ 0xdeea00] Opening 'crypto:segment_000027.ts' for reading
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg] [hls @ 0xdeea00] Opening 'crypto:segment_000028.ts' for reading
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg] [hls @ 0xdeea00] Opening 'crypto:segment_000029.ts' for reading
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg] [hls @ 0xdeea00] Opening 'crypto:segment_000030.ts' for reading
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg] [hls @ 0xdeea00] Opening 'crypto:segment_000031.ts' for reading
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg] [hls @ 0xdeea00] Opening 'crypto:segment_000032.ts' for reading
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg] [hls @ 0xdeea00] Opening 'crypto:segment_000033.ts' for reading
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg] [hls @ 0xdeea00] Opening 'crypto:segment_000034.ts' for reading
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg] [hls @ 0xdeea00] Opening 'crypto:segment_000035.ts' for reading
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg] [hls @ 0xdeea00] Opening 'crypto:segment_000036.ts' for reading
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg] [hls @ 0xdeea00] Opening 'crypto:segment_000037.ts' for reading
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg] [hls @ 0xdeea00] Opening 'crypto:segment_000038.ts' for reading
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg] [hls @ 0xdeea00] Opening 'crypto:segment_000039.ts' for reading
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg] [hls @ 0xdeea00] Opening 'crypto:segment_000040.ts' for reading
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg] [hls @ 0xdeea00] Opening 'crypto:segment_000041.ts' for reading
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg] [hls @ 0xdeea00] Opening 'crypto:segment_000042.ts' for reading
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg] [hls @ 0xdeea00] Opening 'crypto:segment_000043.ts' for reading
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg] [hls @ 0xdeea00] Opening 'crypto:segment_000044.ts' for reading
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg] [hls @ 0xdeea00] Opening 'crypto:segment_000045.ts' for reading
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg] frame=10945 fps=10940 q=-1.0 size=   48896kB time=00:07:35.96 bitrate= 878.5kbits/s speed= 456x    
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg] [hls @ 0xdeea00] Opening 'crypto:segment_000046.ts' for reading
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg] [hls @ 0xdeea00] Opening 'crypto:segment_000047.ts' for reading
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg] [hls @ 0xdeea00] Opening 'crypto:segment_000048.ts' for reading
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg] [hls @ 0xdeea00] Opening 'crypto:segment_000049.ts' for reading
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg] [hls @ 0xdeea00] Opening 'crypto:segment_000050.ts' for reading
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg] [hls @ 0xdeea00] Opening 'crypto:segment_000051.ts' for reading
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg] [hls @ 0xdeea00] Opening 'crypto:segment_000052.ts' for reading
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg] [hls @ 0xdeea00] Opening 'crypto:segment_000053.ts' for reading
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg] [mp4 @ 0xe174d0] Starting second pass: moving the moov atom to the beginning of the file
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg] frame=12798 fps=10677 q=-1.0 Lsize=   57914kB time=00:08:53.29 bitrate= 889.6kbits/s speed= 445x    
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg] video:45006kB audio:12656kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.437414%
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: [ffmpeg] Aborted()
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 ✅ HLS FFmpeg completed in 1258.00ms
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 Output file verified, size: NaN MB
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 Reading output file from FFmpeg...
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: Memory: 59MB (1%) - After reading output (-2MB)
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: Memory: 59MB (1%) - After creating output blob
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 ✅ Created blob URL: blob:chrome-extension://amalaijbbofbekimpfnnebhedb...
+background-enhanced.js:1599 📨 Received message: DOWNLOAD_PROCESSED_FILE
+background-enhanced.js:1615 📱 Received offscreen message: DOWNLOAD_PROCESSED_FILE
+background-enhanced.js:1620 📥 Downloading processed file: Promo_for_Law_Students_-_CC_-_2018_d49addb71819e4c05c.mp4
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 ✅ Download message sent to background script
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 ✅ Cleanup completed
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: Memory: 59MB (1%) - After cleanup
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 ✅ Merge completed successfully
+background-enhanced.js:1599 📨 Received message: MERGE_SEGMENTS_RESPONSE
+background-enhanced.js:1615 📱 Received offscreen message: MERGE_SEGMENTS_RESPONSE
+background-enhanced.js:1259 ✅ Offscreen processing completed
+background-enhanced.js:1586 ✅ Download completed successfully
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: Memory: 59MB (1%) - End of merge
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 MESSAGE: Received DOWNLOAD_COMPLETE message
+background-enhanced.js:1599 📨 Received message: openDownloadManager
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 MESSAGE: Received undefined message
+background-enhanced.js:1642 ✅ Download initiated: 5128
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 MESSAGE: Received DOWNLOAD_COMPLETE message
+background-enhanced.js:1599 📨 Received message: downloadManagerRemoveEntries
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 MESSAGE: Received undefined message
+background-enhanced.js:1599 📨 Received message: checkDownloadStatus
+background-enhanced.js:1599 📨 Received message: checkDownloadStatus
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 MESSAGE: Received undefined message
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 MESSAGE: Received undefined message
+background-enhanced.js:1599 📨 Received message: checkDownloadStatus
+background-enhanced.js:1599 📨 Received message: checkDownloadStatus
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 MESSAGE: Received undefined message
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 MESSAGE: Received undefined message
+background-enhanced.js:1599 📨 Received message: checkDownloadStatus
+background-enhanced.js:1599 📨 Received message: checkDownloadStatus
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 MESSAGE: Received undefined message
+background-enhanced.js:1599 📨 Received message: DEBUG_MESSAGE
+background-enhanced.js:1613 🐛 OFFSCREEN DEBUG: 📱 OFFSCREEN: 🔍 MESSAGE: Received undefined message

@@ -1,0 +1,82 @@
+{
+  "manifest_version": 3,
+  "name": "Downloader for SproutVideo",
+  "version": "4.0.5",
+  "description": "Fast, private, one-click video downloads from SproutVideo.",
+  "permissions": [
+    "downloads",
+    "activeTab",
+    "storage",
+    "tabs",
+    "scripting",
+    "offscreen"
+  ],
+  "host_permissions": [
+    "https://api.github.com/*",
+    "https://auth.serp.co/*",
+    "https://*.sproutvideo.com/*",
+    "https://videos.sproutvideo.com/*",
+    "https://images.sproutvideo.com/*",
+    "https://*.vids.io/*",
+    "https://*.cloudfront.net/*",
+    "<all_urls>"
+  ],
+  "background": {
+    "service_worker": "serp-bundles/background-service-worker.graph.js",
+    "type": "module"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "<all_urls>"
+      ],
+      "js": [
+        "serp-bundles/content-1.graph.js"
+      ],
+      "run_at": "document_start"
+    },
+    {
+      "matches": [
+        "https://*.sproutvideo.com/*",
+        "https://videos.sproutvideo.com/*",
+        "https://*.vids.io/*",
+        "https://*/*"
+      ],
+      "js": [
+        "serp-bundles/content-2.bundle.js"
+      ],
+      "all_frames": true,
+      "run_at": "document_idle"
+    }
+  ],
+  "action": {
+    "default_title": "Downloader for SproutVideo",
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    }
+  },
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "web_accessible_resources": [
+    {
+      "resources": [
+        "offscreen-faststream.html",
+        "offscreen-faststream-legacy.js",
+        "indexed-db.js"
+      ],
+      "matches": [
+        "<all_urls>"
+      ]
+    }
+  ],
+  "content_security_policy": {
+    "extension_pages": "script-src 'self'; object-src 'self';",
+    "sandbox": "sandbox allow-scripts allow-forms allow-popups allow-modals; script-src 'self' 'unsafe-inline' 'unsafe-eval'; child-src 'self';"
+  }
+}
