@@ -1,14 +1,18 @@
-# SproutVideo Video Downloader (Browser Extension)
+# SproutVideo Downloader (Browser Extension) | How to Download SproutVideo Videos
 
-> Download supported SproutVideo-hosted videos as MP4 files from embedded players and direct pages.
+> Browser extension that downloads SproutVideo videos as MP4 from sproutvideo.com, vids.io links and SproutVideo players embedded on any website, including password-protected videos.
 
-SproutVideo Downloader is a browser extension built for users who need offline access to business videos, training content, and embedded media served through SproutVideo. It detects supported direct-file and streaming playback flows, surfaces available quality options when present, and exports the final result as MP4 for later playback.
+SproutVideo Downloader is a browser extension for saving SproutVideo-hosted videos you can watch. It finds SproutVideo players on direct pages, vids.io links and embeds on course sites, portals and docs, and saves them as MP4.
 
-- Save supported SproutVideo videos from embeds and direct pages
-- Handle direct MP4 and supported HLS-backed workflows
-- Export MP4 files for easier offline viewing and review
-- Keep a browser-first workflow for business and training content
-- Avoid manual stream extraction from embedded players
+- Download SproutVideo players on sproutvideo.com, vids.io and embedded pages
+- Password-protected videos: enter the password in the popup
+- Pick the right player when a page has several embeds
+- Choose from the qualities the player exposes (source, UHD, HD, SD)
+- Authenticated HLS streams are assembled into MP4 in the browser; no ffmpeg needed
+
+<a href="https://www.youtube.com/watch?v=f7cQfQC-vBk" target="_blank">
+<img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/how-to-download-sprout-videos-for-free-chrome-extension-method.jpg" width="700px">
+</a>
 
 ## Links
 
@@ -18,160 +22,142 @@ SproutVideo Downloader is a browser extension built for users who need offline a
 - :beetle: Report bugs: [GitHub Issues](https://github.com/serpapps/sprout-video-downloader/issues)
 - :bulb: Request features: [Feature Requests](https://github.com/serpapps/sprout-video-downloader/issues)
 
-## Preview
-
-<a href="https://www.youtube.com/watch?v=f7cQfQC-vBk" target="_blank">
-<img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/how-to-download-sprout-videos-for-free-chrome-extension-method.jpg" width="700px">
-</a>
-
-## Table of Contents
-
-- [Why SproutVideo Downloader](#why-sproutvideo-downloader)
-- [Features](#features)
-- [How It Works](#how-it-works)
-- [Step-by-Step Tutorial: How to Download Videos from SproutVideo](#step-by-step-tutorial-how-to-download-videos-from-sproutvideo)
-- [Supported Formats](#supported-formats)
-- [Who It's For](#who-its-for)
-- [Common Use Cases](#common-use-cases)
-- [Troubleshooting](#troubleshooting)
-- [Trial & Access](#trial--access)
-- [Installation Instructions](#installation-instructions)
-- [FAQ](#faq)
-- [License](#license)
-- [Notes](#notes)
-- [About SproutVideo](#about-sproutvideo)
-
 ## Why SproutVideo Downloader
 
-SproutVideo is commonly embedded inside corporate training portals, marketing pages, and product education flows. That means the media source is often hidden behind an iframe or streaming layer rather than presented as a simple download link. Generic download tools can miss the actual file or fail on embedded HLS playback.
+SproutVideo is used for private business, course and portal video, often embedded on other websites,
+password-protected, and streamed through signed HLS URLs. That rules out right-click saving and most
+online download tools.
 
-SproutVideo Downloader is built for that embedded workflow. Open the page, let the extension detect the supported media source, choose the quality you want, and export the result as MP4 without leaving the browser.
+SproutVideo Downloader detects SproutVideo players on the page you have open, lets you unlock
+password-protected players, and assembles the stream into one MP4 inside your browser.
 
 ## Features
 
-- Detects supported SproutVideo embeds on any website (sproutvideo.com, vids.io, or third-party)
-- Handles direct MP4 and supported HLS-backed playback flows
-- Overlay download button appears directly on detected SproutVideo players
-- Password-protected video support with in-extension password entry
-- Multi-video page support for pages with several SproutVideo embeds
-- Lists available quality variants when present (source, UHD, HD, SD)
-- Real-time progress tracking with download speed and file size
-- Exports MP4 files for simpler offline review
-- Handles authenticated HLS streams with policy-signed URLs
-- Cross-browser support for Chrome, Edge, Brave, Opera, Firefox, Whale, and Yandex
+- **Everywhere SproutVideo plays**: direct pages, vids.io links and embeds on third-party sites
+- **On-player button**: a download button appears on detected players
+- **Password-protected videos**: unlock with the correct password in the popup
+- **Multiple embeds**: choose the right video when a page has several players
+- **Quality selection**: formats and qualities the player exposes, highest first
+- **Direct MP4 or HLS**: direct MP4 sources download directly; authenticated HLS is assembled into MP4
+- **Progress, speed and status**: longer downloads stay visible without freezing the page
+- **No ffmpeg**: no separate conversion software
+- **Private by design**: detection, stream handling and MP4 generation run on your device
 
-## How It Works
+## Supported Browsers
 
-1. Install the extension from the latest release.
-2. Open a page containing a SproutVideo player and start playback.
-3. Let the extension detect the active media source.
-4. Open the popup or use the overlay download button on the player.
-5. Enter the video password if the content is password-protected.
-6. Choose the quality or stream option you want.
-7. Save the final MP4 file locally.
+| Browser | Supported |
+|---|---|
+| Google Chrome | ✅ |
+| Microsoft Edge | ✅ |
+| Brave | ✅ |
+| Opera | ✅ |
+| Naver Whale | ✅ |
+| Yandex Browser | ✅ |
+| Firefox, Safari, mobile browsers | ❌ Not supported |
 
-## Step-by-Step Tutorial: How to Download Videos from SproutVideo
+Works on Windows, macOS and Linux desktops. Every release ships one ZIP per browser
+(for example `sprout-downloader-chrome.zip`).
 
-1. Install SproutVideo Downloader from the latest GitHub release.
-2. Open the training page, course page, or embed that contains the SproutVideo player.
-3. Let the player load fully and start playback.
-4. Click the overlay download button on the player or open the extension popup.
-5. Enter the video password if the content is password-protected.
-6. Review the quality options shown by the extension.
-7. Choose the resolution you want if multiple options are available.
-8. Start the download and wait for the MP4 export to finish.
-9. Open the saved file from your Downloads folder.
+## How to Download SproutVideo Videos (Step-by-Step)
+
+1. Install the extension (see [Installation Instructions](#installation-instructions)) and sign in with your email.
+2. Open the page with the SproutVideo player and let the video load.
+3. Click the download button on the player, or click the extension icon. Enter the password if the video is protected.
+4. Pick the video (if the page has several) and a quality. Keep the tab open while the MP4 is saved.
 
 ## Supported Formats
 
-- Input: supported SproutVideo direct-file downloads (source, UHD, HD, SD)
-- Input: supported SproutVideo authenticated HLS streams
-- Output: MP4
-
-Saved files use MP4 so they are easier to replay on standard media players, transfer between devices, or archive for later access.
+- **Output:** MP4
+- **Sources:** direct MP4 and authenticated HLS from SproutVideo players
+- **Qualities:** whatever the player exposes, for example source, UHD, HD or SD
 
 ## Who It's For
 
-- Teams saving business or training videos for offline review
-- Users working with embedded SproutVideo players on third-party sites
-- People who need a browser alternative to manual media extraction
-- Users archiving content they already have access to in the browser
-- Content creators who need to download their own SproutVideo-hosted content
-
-## Common Use Cases
-
-- Save an embedded SproutVideo training lesson
-- Export a supported business video as MP4
-- Keep marketing or education content available offline
-- Avoid manually tracing through iframe and player requests
-- Download password-protected SproutVideo content for offline access
+- **Students and clients** saving training videos embedded in portals
+- **Businesses** backing up their own SproutVideo library
+- **Teams** keeping internal videos available offline
 
 ## Troubleshooting
 
-**The extension does not detect the video**
-Start playback first and wait for the player to initialize the active media source.
+**The downloader does not find the video**  
+Make sure the player has fully loaded before opening the popup. For lazy-loaded embeds, refresh and wait for the player to start.
 
-**The player is inside an embed**
-The extension scans iframes automatically. Try refreshing the page if the embed loaded after the extension.
+**A protected video fails**  
+Enter the exact SproutVideo password in the popup's password section.
 
-**Only one quality appears**
-Some players expose only one usable stream or one available resolution.
+## Free Trial & Pricing
 
-**The video is password-protected**
-Enter the correct password in the extension prompt. The video will unlock for download once verified.
+You get **3 free downloads a week** with no credit card. A **subscription** gives unlimited downloads, with updates included.
 
-**The download stopped or failed partway through**
-Check whether your internet connection dropped during the export. Retry the download from the popup.
-
-## Trial & Access
-
-- Includes **3 free downloads** so you can test the workflow first
-- Email sign-in uses secure one-time password verification
-- No credit card required for the trial
-- Unlimited downloads are available with a paid license
-
-Start here: [https://serp.ly/sprout-video-downloader?via=github](https://serp.ly/sprout-video-downloader?via=github)
+- Sign in with your email and a one-time code; no password to create.
+- Your free downloads reset every week. In current versions only finished downloads count; a failed or cancelled download does not use one.
+- See current plans on the [product page](https://serp.ly/sprout-video-downloader?via=github).
 
 ## Installation Instructions
 
-1. Open the latest release page: [GitHub Releases](https://github.com/serpapps/sprout-video-downloader/releases/latest)
-2. Download the correct build for your browser.
-3. Install the extension.
-4. Open a SproutVideo page or embed and start playback.
-5. Use the popup to detect and download the media.
+1. Download the ZIP for your browser from the [latest release](https://github.com/serpapps/sprout-video-downloader/releases/latest) (for example `sprout-downloader-chrome.zip`).
+2. Unzip it. You get a folder that contains `manifest.json`.
+3. Open your browser's extensions page: `chrome://extensions` (Chrome), `edge://extensions` (Edge), `brave://extensions` (Brave), `opera://extensions` (Opera), `whale://extensions` (Whale) or `browser://extensions` (Yandex).
+4. Turn on **Developer mode**.
+5. Click **Load unpacked** and select the unzipped folder.
+6. Pin the extension, click its icon, and sign in with your email and the one-time code we send you.
+
+Prefer a guided setup? The [product page](https://serp.ly/sprout-video-downloader?via=github) walks you through the same steps.
+When a newer version is published, the extension shows an update notice; download the new ZIP from
+[GitHub Releases](https://github.com/serpapps/sprout-video-downloader/releases/latest) and load it the same way.
 
 ## FAQ
 
-**Can it download SproutVideo embeds?**
-Yes. It supports embedded playback flows and direct-page players on any website.
+### How do I download a SproutVideo video?
 
-**Can I download password-protected videos?**
-Yes. If a video is password-protected, the extension will prompt you to enter the password.
+Open a page with a SproutVideo player, let the video load, then click the in-player download button or the extension icon. Select the quality you want and keep the tab open while the MP4 is saved.
 
-**Does it work only on public pages?**
-It works on content you can already access in your browser session.
+### Does it work on embedded SproutVideo players?
 
-**Do I need extra software?**
-No. The workflow stays inside the browser extension.
+Yes. It detects SproutVideo embeds on third-party sites, private portals, docs pages and course platforms, as well as sproutvideo.com and vids.io links.
 
-**Where are videos saved?**
-They are saved to your default Downloads location as MP4 files.
+### Can it download password-protected SproutVideo videos?
 
-**What browsers are supported?**
-Chrome, Edge, Brave, Opera, Firefox, Whale, and Yandex.
+Yes. If the video uses a SproutVideo password, the popup has a password section so you can unlock the player and continue.
+
+### Can it detect more than one video on a page?
+
+Yes. When a page has several SproutVideo embeds, the popup lists them so you can choose the right one.
+
+### What quality options are available?
+
+The formats the player data and HLS manifests expose, sorted highest first, for example source, UHD, HD or SD.
+
+### Do I need ffmpeg or desktop software?
+
+No. Authenticated stream handling, HLS processing and MP4 saving all run in the extension.
+
+### Which browsers are supported?
+
+Chrome, Edge, Brave, Opera, Whale and Yandex on Windows, macOS and Linux. Firefox, Safari and mobile browsers are not supported.
+
+### Is there a free trial?
+
+Yes. You get **3 free downloads a week** with no credit card. A **subscription** gives unlimited downloads, with updates included.
+
+## Notes
+
+- Only download content you own or have permission to save.
+- The extension works with videos your own account can already watch in the browser. It does not unlock paid, private or locked content.
+- Quality depends on what the source player serves; the extension cannot make a video sharper than the original.
+- Site updates can affect detection. If something stops working, [open an issue](https://github.com/serpapps/sprout-video-downloader/issues) and include the page type (not private links).
 
 ## License
 
 This repository is distributed under the proprietary SERP Apps license in the [LICENSE](LICENSE) file. Review that file before copying, modifying, or redistributing any part of this project.
 
-## Notes
+## Related
 
-- Only download content you own or have explicit permission to save
-- An internet connection is required for downloads
-- SproutVideo embed must be loaded on the page before detection works
-- Quality depends on what the video owner has enabled
-- Password-protected videos require the correct password
+- [Vimeo Video Downloader](https://github.com/serpapps/vimeo-video-downloader)
+- [Loom Video Downloader](https://github.com/serpapps/loom-video-downloader)
 
 ## About SproutVideo
 
-SproutVideo is widely used for hosting business, training, and marketing video content across direct pages and embeds. SproutVideo Downloader is built to make supported downloads easier for users who already have access to that content in the browser.
+SproutVideo is a video hosting platform for businesses, with privacy controls, password protection
+and embeddable players used on websites, course platforms and client portals. SproutVideo Downloader
+saves the videos you are allowed to watch.
